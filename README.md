@@ -61,7 +61,3 @@ After cleaning, the dataset is standardized, structured, and ready for analysis.
 1. Open the Jupyter Notebook: `Data Cleaning in Pandas.ipynb`
 2. Run the cells step by step to reproduce the cleaning process.
 3. Compare the **raw dataset** vs. the **clean dataset**.
-
----
-
-✨ *This project highlights practical data cleaning skills, which are essential before performing any analysis or machine learning.*
